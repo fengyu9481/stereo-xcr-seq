@@ -9,14 +9,14 @@
 This repository is organized into four main directories to streamline data integration, analysis, and visualization:
 
 1. **`meta_build`**  
-   - Scripts for integrating second-generation (NGS) and third-generation (TGS) sequencing data.  
+   - Scripts for integrating second-generation (NGS) and long-read sequencing data.  
    - Constructs meta information and adata objects for downstream analysis.
 
 2. **`cycclone_immune_repertoire`**  
-   - Tools and scripts for analyzing **third-generation sequencing** (TGS) data.
+   - Tools and scripts for analyzing **long-read sequencing** data.
 
 3. **`NGS_immune_repertoire`**  
-   - Scripts for processing and analyzing **second-generation sequencing** (NGS) data.
+   - Scripts for processing and analyzing **second-generation sequencing** data.
 
 4. **`analysis_script`**  
    - Includes the full analysis pipeline used in the study.  
