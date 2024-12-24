@@ -1,0 +1,15 @@
+{
+  "cyclone_immune_repertoire_v1.SampleID": "p15_tra",
+  "cyclone_immune_repertoire_v1.species": "hsa",
+  "cyclone_immune_repertoire_v1.chain": "TRA",
+  "cyclone_immune_repertoire_v1.Cyclone_fastq": "/jdfssz2/ST_SUPERCELLS/P22Z10200N0739/liuzhong/00-data/Cyclone/raw_data/15_ZLA_KC/15_ZLA_KC_TRAC_combine.fq.gz",
+  "cyclone_immune_repertoire_v1.BarcodeWhiteList": "/jdfssz2/ST_SUPERCELLS/P22Z10200N0739/liuyi/07.ma/data_process/p_15/white_list/p15.csv.gz",
+  "cyclone_immune_repertoire_v1.BarcodeIndex": "/jdfssz2/ST_SUPERCELLS/P22Z10200N0739/liuyi/07.ma/data_process/p_15/white_list/p15.pkl",
+  "cyclone_immune_repertoire_v1.Outdir": "/jdfssz2/ST_SUPERCELLS/P22Z10200N0739/liuyi/07.ma/data_process/p_15/tra/out",
+  "cyclone_immune_repertoire_v1.Kmer": "5",
+  "cyclone_immune_repertoire_v1.OminimalQuality": "5",
+  "cyclone_immune_repertoire_v1.Chunk_size": "50000",
+  "cyclone_immune_repertoire_v1.ANN": "10000",
+  "cyclone_immune_repertoire_v1.BarcodeMapCPU": "10",
+  "cyclone_immune_repertoire_v1.DryRun": "True"
+}
